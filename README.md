@@ -126,6 +126,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [67★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [38★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [57★] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
+- [Payment](https://github.com/longhoang2984/flutter_payment_app_ui) - Payment, Card management
 
 #### Calendar
 
